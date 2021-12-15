@@ -29,4 +29,4 @@ export {
     NodeWebSocketFactoryBase,
     WebSocketClient,
     WebSocketServer,
-} from './webSocket';
+} from './webSocket/index.node';

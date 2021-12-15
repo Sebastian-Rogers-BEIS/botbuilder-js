@@ -1,8 +1,7 @@
 const assert = require('assert');
 const { expect } = require('chai');
-const { NamedPipeClient, NamedPipeServer, StreamingRequest } = require('../lib');
+const { NamedPipeClient, NamedPipeServer, RequestHandler, StreamingRequest } = require('../');
 const { NamedPipeTransport } = require('../lib/namedPipe');
-const { RequestHandler } = require('../lib');
 const { createNodeServer, getServerFactory } = require('../lib/utilities/createNodeServer');
 
 class FauxSock {

@@ -6,5 +6,5 @@
  * Licensed under the MIT License.
  */
 
-export * from './nodeWebSocketFactory';
-export * from './nodeWebSocketFactoryBase';
+export * from './webSocketFactory.node';
+export * from './webSocketFactoryBase.node';

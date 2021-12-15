@@ -7,8 +7,8 @@
  */
 
 import { INodeIncomingMessage, INodeBuffer, INodeSocket } from '../../interfaces';
-import { NodeWebSocket } from '../nodeWebSocket';
-import { NodeWebSocketFactoryBase } from './nodeWebSocketFactoryBase';
+import { NodeWebSocket } from '../webSocket.node';
+import { NodeWebSocketFactoryBase } from './webSocketFactoryBase.node';
 
 /**
  * Represents a NodeWebSocketFactory to create a WebSocket server.

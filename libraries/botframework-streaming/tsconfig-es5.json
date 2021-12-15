@@ -6,6 +6,7 @@
     "outDir": "es5"
   },
   "exclude": [
-    "**/*node*.ts"
+    "src/index.ts",
+    "src/**/*.node.ts"
   ]
 }

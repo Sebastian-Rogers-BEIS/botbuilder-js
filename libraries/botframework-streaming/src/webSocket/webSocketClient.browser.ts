@@ -6,7 +6,7 @@
  * Licensed under the MIT License.
  */
 
-import { BrowserWebSocket } from './browserWebSocket';
+import { BrowserWebSocket } from './webSocket.browser';
 import { IReceiveResponse, IStreamingTransportClient } from '../interfaces';
 import { PayloadReceiver, PayloadSender, TransportDisconnectedEvent } from '../payloadTransport';
 import { ProtocolAdapter } from '../protocolAdapter';

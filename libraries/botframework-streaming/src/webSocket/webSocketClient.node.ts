@@ -11,7 +11,7 @@ import { RequestHandler } from '../requestHandler';
 import { StreamingRequest } from '../streamingRequest';
 import { RequestManager } from '../payloads';
 import { PayloadReceiver, PayloadSender, TransportDisconnectedEvent } from '../payloadTransport';
-import { NodeWebSocket } from './nodeWebSocket';
+import { NodeWebSocket } from './webSocket.node';
 import { WebSocketTransport } from './webSocketTransport';
 import { IStreamingTransportClient, IReceiveResponse } from '../interfaces';
 
