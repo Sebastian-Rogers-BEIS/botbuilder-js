@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "adaptive-expressions": "4.1.6",
-    "adaptive-expressions-ie11": "4.1.6",
     "botbuilder": "4.1.6",
     "botbuilder-ai": "4.1.6",
     "botbuilder-ai-luis": "4.1.6",

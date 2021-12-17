@@ -3,7 +3,6 @@
 |Name|Stable, Preview or Deprecated Status|
 |----|------------------------------------|
 |adaptive-expressions|Stable|
-|adaptive-expressions-ie11|Stable|
 |botbuilder-ai|Stable|
 |botbuilder-ai-orchestrator|Preview|
 |botbuilder-applicationinsights|Stable|

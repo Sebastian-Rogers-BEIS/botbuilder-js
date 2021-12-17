@@ -1,5 +1,4 @@
 import * as adaptiveExpressions from 'adaptive-expressions';
-import * as adaptiveExpressionsIE11 from 'adaptive-expressions-ie11';
 import * as botbuilder from 'botbuilder';
 import * as botbuilderAi from 'botbuilder-ai';
 import * as botbuilderAiLuis from 'botbuilder-ai-luis';
